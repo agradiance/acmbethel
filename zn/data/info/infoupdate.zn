@@ -27,19 +27,19 @@ Just click the tool button and update our News and Event Program;
 Thank you and always be blessed.
 }
 
-{
+
 type~Upcoming Event $
 tag~ ACM ANNIVERSARY $
 title~ACM BETHEL ZONE ANNIVERSARY$
 detail~To the glory of God, ACM Bethel Zone will be having their anniversary this year 2021, it's coming up quickly, please lets plan, prepare and make it a promising one indeed.
 God bless you.
-}
+
 
 {
 type~Announcement $
 tag~Announcement $
 title~ACM ZONAL SUNDAY SCHOOL $
-date~ (d=14; m=2; y=2021) $
+date~ (d=28; m=2; y=2021) $
 time~(h=16;) $
 venue~Bethel Anglican Church $
 detail~
@@ -47,8 +47,8 @@ Greetings Beloved;
 Dear Ezinwannem,
 We present to you our ACM Sunday School;
 
-Theme: The Greater Love (John 15:13)
-Date: Sunday, 14th February, 2021
+Theme: The Purpose Driven Life
+Date: Sunday, 28th February, 2021
 Time: 4pm
 
 Features:
@@ -89,16 +89,19 @@ detail~Beloved, Anglican Youth Fellowship is having their divine fellowship ever
 {
 type~Announcement $
 tag~AYF BETHEL $
-title~WHAT IS LOVE $
-date~ (d=15;m=2;y=2021) $
+title~Youth Serminar $
+date~ (d=1;m=3;y=2021) $
 time~(h=17; m=30) $
 venue~Bethel Anglican Church $
 detail~Beloved, Anglican Youth Fellowship is invites all their youths to the special program;
 
-Theme: What is Love;
-Date: Monday, 15th February, 2021;
+Theme: Danger of Self Medication and Drug Abuse;
+Speaker: Bro Marthin Ezewugo
+Date: Monday, 1st March, 2021;
 Time: 5:30pm;
 Venue: Bethel Anglican Church, Iyiowa Odekpe
+
+Free Vitamin & Recharge Card for participant
 
 Please, invite and come with your friends; it's going to be great;
 God bless you.
@@ -207,6 +210,7 @@ detail~ This is to remind us of our unit combine prayer coming up on Tuesdays of
 
 	BIRTHDAYS
 { type~Birthday $ tag~Birthday celebration $ title~Somebody's Birthday $ date~ (y=2021) $ detail~ Beloved, today could be somebody's birthday. Please feel free to send us your birthday, we want you to be celebrated; just send your month and the day of the month of your birthday: eg. 11th January. God bless you. }
+{ type~Birthday $ tag~Birthday celebration $ title~ Ezz RapuruChukwu Livinus $ date~ (d=2; m=6) $ detail~This day is the birthday of our beloved Ezinwannem, Ezz RapuruChukwu Livinus; Please let's call, pray and encourage him that he will continue to experience God's Grace and favour in all his endeavor }
 { type~Birthday $ tag~Birthday celebration $ title~ Ezz Precious Nwachukwu $ date~ (d=11; m=6) $ detail~This day is the birthday of our beloved Ezinwannem, Ezz Precious Nwachukwu; Please call, pray and encourage her that She will continue to experience God's Grace and favour in all her endeavor }
 { type~Birthday $ tag~Birthday celebration $ title~ Ezz Arinze Ihemjika $ date~ (d=16; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Arinze Ihemjika, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
 { type~Birthday $ tag~Birthday celebration $ title~Ezz Chukwubuikem Onwusoanya $ date~ (d=2; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Chukwubuikem, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
