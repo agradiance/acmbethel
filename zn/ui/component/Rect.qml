@@ -9,7 +9,7 @@ Rectangle{
         color: "red"
 
 	Loader{
-		anchors.centerIn: parent
-source: ""
+	anchors.centerIn: parent
+        source: "qrc:/main.qml"
 	}
 }
