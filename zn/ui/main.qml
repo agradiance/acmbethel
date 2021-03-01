@@ -7,6 +7,6 @@ Rectangle{
 
         Loader{
             anchors.centerIn: parent;
-            source: "Rect.qml"
+            source: "component/Rect.qml"
         }
     }
