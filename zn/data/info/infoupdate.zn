@@ -1,5 +1,5 @@
 [
-copyright~ ( y=2021; month=2; d=14; h=12;min=30;s=30) $
+copyright~ ( y=2021; month=4; d=19; h=12;min=40;s=30) $
 ]
 
 type: the folloling type is supported: Announcement; Birthday; Church; Information; NewsUpdate; UpcomingEvent; General(this is the default)
@@ -25,6 +25,33 @@ Just click the tool button and update our News and Event Program;
 (Remeber to turn on your mobile data for internet conection while downloading the update)
 
 Thank you and always be blessed.
+}
+
+{
+type~information $
+tag~QUIZ!!! $
+date~ (d=25; m=4; y=2021) $
+time~(h=18; m=00) $
+title~OVERCOMERS QUIZ!!! $
+detail~
+ 
+#500 MTN-Recharge card to be won!!!
+
+Are you an overcomer?
+Yes, I am.
+But you don't say that in words alone;
+you prove it with The Sword (your Bible)
+
+ACM BETHEL ZONE
+Our overcomers quiz is back again with great reward;
+Get Zulite Nwata install on your Android Phone, we have loaded a practice quiz to get you ready.
+
+Reward: #500 MTN-Recharge Card.
+Date: Sunday, 25th April, 2021
+Time: 2:00pm
+
+What are you waiting for?
+Get your Bible and Show us that you are truely an overcomer!!!
 }
 
 
