@@ -1,10 +1,8 @@
 [
-copyright~ ( y=2021; month=4; d=24; h=21;min=00;s=01) $
-prize~ TVROLVJlZygjNTAwKTogMTIzNDUtNjc4OTAgKHVzZSAqMzU1MSpwaW4jKQ== $
+copyright~ ( y=2021; month=4; d=25; h=14;min=00;s=00) $
+prize~ TVROLVJlZygjMjAwKTogODc1Ni02ODg3LTIzMTgtMjc1NjU= $
 indicate_all_correct_answers ~ false $
 enable_auto_mode ~ true $
 quiz_timing ~ 10 $
 quiz_point ~ 4
 ]
-
-{ <How many books do we have in the Bibe?> ~ [61 #63 #65 #@66] }
